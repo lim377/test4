@@ -32,7 +32,7 @@
 
 ###링크
 [naver](https://naver.com)
-![사진](<img width="360" height="468" alt="4b1f803a-f002-4f8f-aa4c-1ac268082d44" src="https://github.com/user-attachments/assets/d471c348-e295-46ac-89d6-7e7eb474b6c3" /)
+<img width="735" height="309" alt="logo" src="https://github.com/user-attachments/assets/010c9995-5618-4f79-99c2-2275e03f1b15" />
 
 >dls
 ### 표
